@@ -5,5 +5,4 @@ A collection of beginner-friendly JavaScript programs to build strong logic and 
 <br>
 Author : Aditya Shejwal
 
-jj
 
