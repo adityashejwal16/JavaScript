@@ -1,6 +1,4 @@
 
-
-
     let a = 10;
     let b = 11;
     let ans = 0;
